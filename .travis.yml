@@ -1,0 +1,4 @@
+language: yml
+
+script:
+	- './gradlew clean build'
